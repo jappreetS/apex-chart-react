@@ -1,0 +1,11 @@
+$root: ".Icon";
+
+#{$root} {
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  background-color: purple;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
